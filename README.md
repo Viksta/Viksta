@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Viksta
 - 👀 I’m interested in coding and languages
-- 🌱 I’m currently learning Java, HTML, CSS
+- 🌱 I’m currently learning JS, HTML, CSS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @vikstagrram on Inst
 
